@@ -28,6 +28,7 @@ I build secure, maintainable web applications with clean architecture, from data
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [**Dental Clinic Management System**](https://github.com/salmantawfeeq/dental-clinic-management-system) | Offline-first desktop system for dental clinics: patients, appointments, live queue and a waiting-room display with real-time sync (source private) | Electron, React, TypeScript, Node.js, PostgreSQL |
 | [**TaskFlow**](https://github.com/salmantawfeeq/TaskFlow) | Task and project management system with Clean Architecture, Identity-based auth, reports (Excel/PDF) and unit + integration tests | ASP.NET Core 8, EF Core, SQL Server |
 | [**Dental Clinic Website**](https://github.com/salmantawfeeq/dental-clinic-website) | Arabic-first clinic website with an online booking flow and CI/CD deployment | Next.js, TypeScript, Supabase |
 | [**Nashvell Trading**](https://github.com/salmantawfeeq/Nashvell) | Multi-page corporate website with admin dashboard and contact form | JavaScript, Supabase, EmailJS |
