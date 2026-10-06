@@ -14,8 +14,6 @@ I build secure, maintainable web applications with clean architecture, from data
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -28,9 +26,9 @@ I build secure, maintainable web applications with clean architecture, from data
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**Dental Clinic Management System**](https://github.com/salmantawfeeq/dental-clinic-management-system) | Offline-first desktop system for dental clinics: patients, appointments, live queue and a waiting-room display with real-time sync (source private) | Electron, React, TypeScript, Node.js, PostgreSQL |
+| [**Dental Clinic Management System**](https://github.com/salmantawfeeq/dental-clinic-management-system) | Offline-first desktop system for dental clinics: patients, appointments, live queue and a waiting-room display with real-time sync (source private) | Electron, TypeScript, Node.js, PostgreSQL |
 | [**TaskFlow**](https://github.com/salmantawfeeq/TaskFlow) | Task and project management system with Clean Architecture, Identity-based auth, reports (Excel/PDF) and unit + integration tests | ASP.NET Core 8, EF Core, SQL Server |
-| [**Dental Clinic Website**](https://github.com/salmantawfeeq/dental-clinic-website) | Arabic-first clinic website with an online booking flow and CI/CD deployment | Next.js, TypeScript, Supabase |
+| [**Dental Clinic Website**](https://github.com/salmantawfeeq/dental-clinic-website) | Arabic-first clinic website with an online booking flow and CI/CD deployment | TypeScript, Supabase |
 | [**Nashvell Trading**](https://github.com/salmantawfeeq/Nashvell) | Multi-page corporate website with admin dashboard and contact form | JavaScript, Supabase, EmailJS |
 | [**Al-Masry Sweets Store**](https://github.com/salmantawfeeq/halwani-elmsry) | Arabic e-commerce storefront with cart, offers, reviews and admin panel | JavaScript, Firebase |
 | [**Al-Janah Al-Abyad Dental Center**](https://github.com/salmantawfeeq/AL-JANAH-AL-ABYAD-DENTAL-CENTER) | Responsive Arabic landing site for a dental center in Riyadh | HTML, CSS, JavaScript |
